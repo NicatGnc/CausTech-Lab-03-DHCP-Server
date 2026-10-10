@@ -1,4 +1,4 @@
-# CausTech Technologies — Lab 03: DHCP Server Configuration
+# Lab 03: DHCP Server Configuration
 
 ## 1. Overview
 
