@@ -125,13 +125,3 @@ This lab documents:
 * Network connectivity and DNS resolution tests.
 
 Refer to `documentation/validation.md` for the validation checklist.
-
-## 14. Skills Demonstrated
-
-* Windows Server administration
-* DHCP role installation and configuration
-* IPv4 scope and address pool management
-* DHCP client configuration and lease renewal
-* DNS integration with Active Directory
-* Network troubleshooting with `ipconfig`, `ping`, and `nslookup`
-* Technical documentation and evidence collection
